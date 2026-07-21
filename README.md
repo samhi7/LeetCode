@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/samhi7/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/samhi7/LeetCode/tree/master/0213-house-robber-ii) |
 | [1260-shift-2d-grid](https://github.com/samhi7/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/samhi7/LeetCode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/samhi7/LeetCode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/samhi7/LeetCode/tree/master/0198-house-robber) |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/samhi7/LeetCode/tree/master/1260-shift-2d-grid) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
