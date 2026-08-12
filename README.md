@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/samhi7/LeetCode/tree/master/0091-decode-ways) |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
+| [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samhi7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/samhi7/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/samhi7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
+| [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samhi7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
+| [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/samhi7/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/samhi7/LeetCode/tree/master/1406-stone-game-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
