@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/samhi7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/samhi7/LeetCode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/samhi7/LeetCode/tree/master/0198-house-robber) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/samhi7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/samhi7/LeetCode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/samhi7/LeetCode/tree/master/0091-decode-ways) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/samhi7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samhi7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
