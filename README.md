@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/samhi7/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/samhi7/LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/samhi7/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/samhi7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/samhi7/LeetCode/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/samhi7/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/samhi7/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/samhi7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/samhi7/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/samhi7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/samhi7/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samhi7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/samhi7/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/samhi7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samhi7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/samhi7/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
