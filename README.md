@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/samhi7/LeetCode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/samhi7/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/samhi7/LeetCode/tree/master/0213-house-robber-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/samhi7/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/samhi7/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/samhi7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/samhi7/LeetCode/tree/master/0486-predict-the-winner) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/samhi7/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/samhi7/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/samhi7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samhi7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/samhi7/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/samhi7/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
