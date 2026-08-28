@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/samhi7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/samhi7/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/samhi7/LeetCode/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/samhi7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/samhi7/LeetCode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/samhi7/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/samhi7/LeetCode/tree/master/0213-house-robber-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/samhi7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
 | [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/samhi7/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/samhi7/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/samhi7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
