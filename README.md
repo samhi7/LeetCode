@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/samhi7/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/samhi7/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samhi7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/samhi7/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samhi7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/samhi7/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/samhi7/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/samhi7/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1829-maximum-xor-for-each-query](https://github.com/samhi7/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1829-maximum-xor-for-each-query](https://github.com/samhi7/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1991-find-the-middle-index-in-array](https://github.com/samhi7/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Quicksort
 |  |
