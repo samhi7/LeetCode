@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/samhi7/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/samhi7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/samhi7/LeetCode/tree/master/0486-predict-the-winner) |
+| [0739-daily-temperatures](https://github.com/samhi7/LeetCode/tree/master/0739-daily-temperatures) |
 | [0976-largest-perimeter-triangle](https://github.com/samhi7/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1260-shift-2d-grid](https://github.com/samhi7/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/samhi7/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -170,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samhi7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/samhi7/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/samhi7/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
