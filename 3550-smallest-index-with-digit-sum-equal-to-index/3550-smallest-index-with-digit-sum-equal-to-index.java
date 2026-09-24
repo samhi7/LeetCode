@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int a=nums[i];
             int sum=0;
-            while(a!=0){
+            while(a>0){
                 int d=a%10;
                 sum+=d;
                 a=a/10;
