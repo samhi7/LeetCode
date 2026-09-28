@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/samhi7/LeetCode/tree/master/0091-decode-ways) |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
 | [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samhi7/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samhi7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/samhi7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -183,8 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/samhi7/LeetCode/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samhi7/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/samhi7/LeetCode/tree/master/0739-daily-temperatures) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samhi7/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
