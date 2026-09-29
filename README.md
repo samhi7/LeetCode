@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/samhi7/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/samhi7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/samhi7/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
 | [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samhi7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/samhi7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/samhi7/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/samhi7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/samhi7/LeetCode/tree/master/0344-reverse-string) |
