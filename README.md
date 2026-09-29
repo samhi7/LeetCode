@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/samhi7/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/samhi7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/samhi7/LeetCode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/samhi7/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/samhi7/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/samhi7/LeetCode/tree/master/0268-missing-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samhi7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/samhi7/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
 | [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/samhi7/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/samhi7/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/samhi7/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
@@ -221,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/samhi7/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
