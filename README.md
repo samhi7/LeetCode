@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/samhi7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/samhi7/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/samhi7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samhi7/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samhi7/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/samhi7/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/samhi7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/samhi7/LeetCode/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/samhi7/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/samhi7/LeetCode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/samhi7/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/samhi7/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/samhi7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/samhi7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0976-largest-perimeter-triangle](https://github.com/samhi7/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samhi7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/samhi7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samhi7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/samhi7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samhi7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/samhi7/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
@@ -240,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samhi7/LeetCode/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/samhi7/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
